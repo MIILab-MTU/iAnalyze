@@ -1,1 +1,1 @@
-iAnalysis web application built on Django
+iAnalysis web application built on Django.
